@@ -239,9 +239,9 @@ mark {
 .container .row {
     margin-bottom: 0;
 }
-
+/* 整体背景颜色，包括导航，移动端的导航，页尾，标签页等的背景颜色 */
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #0d71e3 50%, #0e7de4 100%);
 }
 
 .text-color {
