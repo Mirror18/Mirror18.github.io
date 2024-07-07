@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mirror&#39;s blog</title>
   
-  <subtitle>理想主义生放在浪漫的土壤里</subtitle>
+  <subtitle>理想主义盛开在浪漫的土壤里</subtitle>
   <link href="http://mirror18.github.io/atom.xml" rel="self"/>
   
   <link href="http://mirror18.github.io/"/>
-  <updated>2024-07-02T00:00:14.704Z</updated>
+  <updated>2024-07-07T17:25:45.299Z</updated>
   <id>http://mirror18.github.io/</id>
   
   <author>
@@ -17,11 +17,108 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>java开发流程</title>
+    <link href="http://mirror18.github.io/2024/07/06/java-kai-fa-liu-cheng/"/>
+    <id>http://mirror18.github.io/2024/07/06/java-kai-fa-liu-cheng/</id>
+    <published>2024-07-05T16:20:21.000Z</published>
+    <updated>2024-07-07T17:25:45.299Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;其实这也是一个很扯淡的事，因为还没找到工作，就顺手找找面试题，整理下我会的东西，然后就想到了这个。代码只是作为工具，本质上只是调用代码帮我们完成某件事，例如展示网页，设置API，别人可以调用，提供对应的服务。或者说操控机器。&lt;/p&gt;
+&lt;p&gt;至于说为什么会有那么多的名字啊，框</summary>
+        
+      
+    
+    
+    
+    <category term="Java ee" scheme="http://mirror18.github.io/categories/Java-ee/"/>
+    
+    
+    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
+    
+    <category term="spring" scheme="http://mirror18.github.io/tags/spring/"/>
+    
+    <category term="spring cloud" scheme="http://mirror18.github.io/tags/spring-cloud/"/>
+    
+    <category term="spring boot" scheme="http://mirror18.github.io/tags/spring-boot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简历.md</title>
+    <link href="http://mirror18.github.io/2024/07/04/jian-li-md/"/>
+    <id>http://mirror18.github.io/2024/07/04/jian-li-md/</id>
+    <published>2024-07-03T20:56:40.000Z</published>
+    <updated>2024-07-04T05:25:50.212Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;个人信息&quot;&gt;&lt;a href=&quot;#个人信息&quot; class=&quot;headerlink&quot; title=&quot;个人信息&quot;&gt;&lt;/a&gt;个人信息&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th</summary>
+        
+      
+    
+    
+    
+    <category term="找工作" scheme="http://mirror18.github.io/categories/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+    <category term="简历" scheme="http://mirror18.github.io/tags/%E7%AE%80%E5%8E%86/"/>
+    
+    <category term="项目" scheme="http://mirror18.github.io/tags/%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>resume</title>
+    <link href="http://mirror18.github.io/2024/07/02/resume-md/"/>
+    <id>http://mirror18.github.io/2024/07/02/resume-md/</id>
+    <published>2024-07-02T10:35:04.000Z</published>
+    <updated>2024-07-04T05:30:35.697Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;简历&quot;&gt;&lt;a href=&quot;#简历&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="找工作" scheme="http://mirror18.github.io/categories/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
+    
+    <category term="Resume" scheme="http://mirror18.github.io/tags/Resume/"/>
+    
+    <category term="python" scheme="http://mirror18.github.io/tags/python/"/>
+    
+    <category term="Spring Boot" scheme="http://mirror18.github.io/tags/Spring-Boot/"/>
+    
+    <category term="mybatis" scheme="http://mirror18.github.io/tags/mybatis/"/>
+    
+    <category term="Djang" scheme="http://mirror18.github.io/tags/Djang/"/>
+    
+  </entry>
+  
+  <entry>
     <title>hexo+github pages+ github action + matery 搭建博客</title>
     <link href="http://mirror18.github.io/2024/07/02/bo-ke-da-jian-zhi-nan/"/>
     <id>http://mirror18.github.io/2024/07/02/bo-ke-da-jian-zhi-nan/</id>
     <published>2024-07-01T21:02:00.000Z</published>
-    <updated>2024-07-02T00:00:14.704Z</updated>
+    <updated>2024-07-02T10:37:44.658Z</updated>
     
     
       
