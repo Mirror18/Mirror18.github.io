@@ -6,7 +6,7 @@
   <link href="http://mirror18.github.io/atom.xml" rel="self"/>
   
   <link href="http://mirror18.github.io/"/>
-  <updated>2024-07-07T17:25:45.299Z</updated>
+  <updated>2024-07-07T19:24:22.667Z</updated>
   <id>http://mirror18.github.io/</id>
   
   <author>
@@ -21,21 +21,16 @@
     <link href="http://mirror18.github.io/2024/07/06/java-kai-fa-liu-cheng/"/>
     <id>http://mirror18.github.io/2024/07/06/java-kai-fa-liu-cheng/</id>
     <published>2024-07-05T16:20:21.000Z</published>
-    <updated>2024-07-07T17:25:45.299Z</updated>
+    <updated>2024-07-07T19:24:22.667Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;其实这也是一个很扯淡的事，因为还没找到工作，就顺手找找面试题，整理下我会的东西，然后就想到了这个。代码只是作为工具，本质上只是调用代码帮我们完成某件事，例如展示网页，设置API，别人可以调用，提供对应的服务。或者说操控机器。&lt;/p&gt;
-&lt;p&gt;至于说为什么会有那么多的名字啊，框</summary>
-        
-      
+    <summary type="html">如何正确的开启一个Java项目，包含spring 还有spring cloud</summary>
     
     
+    <content src="https://api.sretna.cn/kind/pc.php" type="image"/>
     
-    <category term="Java ee" scheme="http://mirror18.github.io/categories/Java-ee/"/>
+    
+    <category term="Java-ee" scheme="http://mirror18.github.io/categories/Java-ee/"/>
     
     
     <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
@@ -118,17 +113,13 @@
     <link href="http://mirror18.github.io/2024/07/02/bo-ke-da-jian-zhi-nan/"/>
     <id>http://mirror18.github.io/2024/07/02/bo-ke-da-jian-zhi-nan/</id>
     <published>2024-07-01T21:02:00.000Z</published>
-    <updated>2024-07-02T10:37:44.658Z</updated>
+    <updated>2024-07-07T19:13:28.497Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;使用hexo-github-pages-github-action搭建博客&quot;&gt;&lt;a href=&quot;#使用hexo-github-pages-github-action搭建博客&quot; class=&quot;headerlink&quot; title=&quot;使用hexo+github</summary>
-        
-      
+    <summary type="html">一份带着自己思考的搭建博客方案</summary>
     
+    
+    <content src="https://api.sretna.cn/kind/pc.php" type="image"/>
     
     
     <category term="小玩具" scheme="http://mirror18.github.io/categories/%E5%B0%8F%E7%8E%A9%E5%85%B7/"/>
