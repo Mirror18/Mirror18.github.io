@@ -6,7 +6,7 @@
   <link href="http://mirror18.github.io/atom.xml" rel="self"/>
   
   <link href="http://mirror18.github.io/"/>
-  <updated>2024-07-07T19:24:22.667Z</updated>
+  <updated>2024-07-11T00:35:47.799Z</updated>
   <id>http://mirror18.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>面试整理</title>
+    <link href="http://mirror18.github.io/2024/07/11/mian-shi-zheng-li/"/>
+    <id>http://mirror18.github.io/2024/07/11/mian-shi-zheng-li/</id>
+    <published>2024-07-10T19:50:01.912Z</published>
+    <updated>2024-07-11T00:35:47.799Z</updated>
+    
+    
+    <summary type="html">主要是面对简历的修改和扩充</summary>
+    
+    
+    <content src="https://api.sretna.cn/kind/pc.php" type="image"/>
+    
+    
+    <category term="面试" scheme="http://mirror18.github.io/categories/%E9%9D%A2%E8%AF%95/"/>
+    
+    
+    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
+    
+    <category term="资料" scheme="http://mirror18.github.io/tags/%E8%B5%84%E6%96%99/"/>
+    
+  </entry>
+  
+  <entry>
     <title>java开发流程</title>
     <link href="http://mirror18.github.io/2024/07/06/java-kai-fa-liu-cheng/"/>
     <id>http://mirror18.github.io/2024/07/06/java-kai-fa-liu-cheng/</id>
     <published>2024-07-05T16:20:21.000Z</published>
-    <updated>2024-07-07T19:24:22.667Z</updated>
+    <updated>2024-07-10T00:57:32.990Z</updated>
     
     
     <summary type="html">如何正确的开启一个Java项目，包含spring 还有spring cloud</summary>
@@ -44,39 +67,9 @@
   </entry>
   
   <entry>
-    <title>简历.md</title>
-    <link href="http://mirror18.github.io/2024/07/04/jian-li-md/"/>
-    <id>http://mirror18.github.io/2024/07/04/jian-li-md/</id>
-    <published>2024-07-03T20:56:40.000Z</published>
-    <updated>2024-07-04T05:25:50.212Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;个人信息&quot;&gt;&lt;a href=&quot;#个人信息&quot; class=&quot;headerlink&quot; title=&quot;个人信息&quot;&gt;&lt;/a&gt;个人信息&lt;/h2&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th</summary>
-        
-      
-    
-    
-    
-    <category term="找工作" scheme="http://mirror18.github.io/categories/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
-    
-    
-    <category term="简历" scheme="http://mirror18.github.io/tags/%E7%AE%80%E5%8E%86/"/>
-    
-    <category term="项目" scheme="http://mirror18.github.io/tags/%E9%A1%B9%E7%9B%AE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>resume</title>
-    <link href="http://mirror18.github.io/2024/07/02/resume-md/"/>
-    <id>http://mirror18.github.io/2024/07/02/resume-md/</id>
+    <link href="http://mirror18.github.io/2024/07/02/resume/"/>
+    <id>http://mirror18.github.io/2024/07/02/resume/</id>
     <published>2024-07-02T10:35:04.000Z</published>
     <updated>2024-07-04T05:30:35.697Z</updated>
     
@@ -94,9 +87,9 @@
     <category term="找工作" scheme="http://mirror18.github.io/categories/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
     
     
-    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
-    
     <category term="Resume" scheme="http://mirror18.github.io/tags/Resume/"/>
+    
+    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
     
     <category term="python" scheme="http://mirror18.github.io/tags/python/"/>
     
@@ -130,27 +123,6 @@
     <category term="github" scheme="http://mirror18.github.io/tags/github/"/>
     
     <category term="matery" scheme="http://mirror18.github.io/tags/matery/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://mirror18.github.io/2024/07/02/hello-world/"/>
-    <id>http://mirror18.github.io/2024/07/02/hello-world/</id>
-    <published>2024-07-01T17:02:00.000Z</published>
-    <updated>2024-07-01T21:26:56.724Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a target=&quot;_blank&quot;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
