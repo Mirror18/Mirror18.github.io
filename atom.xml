@@ -6,7 +6,7 @@
   <link href="http://mirror18.github.io/atom.xml" rel="self"/>
   
   <link href="http://mirror18.github.io/"/>
-  <updated>2024-07-11T00:35:47.799Z</updated>
+  <updated>2024-07-15T21:37:12.371Z</updated>
   <id>http://mirror18.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>面试题目</title>
+    <link href="http://mirror18.github.io/2024/07/16/mian-shi-ti-mu/"/>
+    <id>http://mirror18.github.io/2024/07/16/mian-shi-ti-mu/</id>
+    <published>2024-07-15T21:34:11.881Z</published>
+    <updated>2024-07-15T21:37:12.371Z</updated>
+    
+    
+    <summary type="html">现有的几次面试的思考吧</summary>
+    
+    
+    <content src="https://api.sretna.cn/kind/pc.php" type="image"/>
+    
+    
+    <category term="找工作" scheme="http://mirror18.github.io/categories/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
+    
+    <category term="面试" scheme="http://mirror18.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+    <category term="找工作" scheme="http://mirror18.github.io/tags/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>面试整理</title>
@@ -33,9 +58,9 @@
     <category term="面试" scheme="http://mirror18.github.io/categories/%E9%9D%A2%E8%AF%95/"/>
     
     
-    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
-    
     <category term="资料" scheme="http://mirror18.github.io/tags/%E8%B5%84%E6%96%99/"/>
+    
+    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
     
   </entry>
   
@@ -87,9 +112,9 @@
     <category term="找工作" scheme="http://mirror18.github.io/categories/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
     
     
-    <category term="Resume" scheme="http://mirror18.github.io/tags/Resume/"/>
-    
     <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
+    
+    <category term="Resume" scheme="http://mirror18.github.io/tags/Resume/"/>
     
     <category term="python" scheme="http://mirror18.github.io/tags/python/"/>
     
