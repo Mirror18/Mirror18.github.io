@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mirror&#39;s blog</title>
+  
+  <subtitle>理想主义盛开在浪漫的土壤里</subtitle>
+  <link href="http://mirror18.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://mirror18.github.io/"/>
+  <updated>2024-09-10T15:14:15.475Z</updated>
+  <id>http://mirror18.github.io/</id>
+  
+  <author>
+    <name>mirror</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>js学习记录</title>
+    <link href="http://mirror18.github.io/2024/09/10/js-xue-xi-ji-lu/"/>
+    <id>http://mirror18.github.io/2024/09/10/js-xue-xi-ji-lu/</id>
+    <published>2024-09-10T15:14:15.475Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;JavaScript&quot;&gt;&lt;a href=&quot;#JavaScript&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="语言学习" scheme="http://mirror18.github.io/categories/%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="http://mirror18.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="JavaScript" scheme="http://mirror18.github.io/tags/JavaScript/"/>
+    
+    <category term="总结" scheme="http://mirror18.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python学习记录</title>
+    <link href="http://mirror18.github.io/2024/09/10/python-xue-xi-ji-lu/"/>
+    <id>http://mirror18.github.io/2024/09/10/python-xue-xi-ji-lu/</id>
+    <published>2024-09-10T15:14:15.475Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;学习记录&quot;&gt;&lt;a href=&quot;#学习记录&quot; class=&quot;headerlink&quot; title=&quot;学习记录&quot;&gt;&lt;/a&gt;学习记录&lt;/h1&gt;&lt;p&gt;虽然我知道这段话很扯淡，但这怎么说呢，别特么自己瞎几把学。按照流程就正常的C</summary>
+        
+      
+    
+    
+    
+    <category term="学习记录" scheme="http://mirror18.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="Python" scheme="http://mirror18.github.io/tags/Python/"/>
+    
+    <category term="学习记录" scheme="http://mirror18.github.io/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今日记录</title>
+    <link href="http://mirror18.github.io/2024/09/10/jin-ri-ji-lu/"/>
+    <id>http://mirror18.github.io/2024/09/10/jin-ri-ji-lu/</id>
+    <published>2024-09-10T15:14:15.475Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;想法&quot;&gt;&lt;a href=&quot;#想法&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="日记" scheme="http://mirror18.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="记录" scheme="http://mirror18.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="成长" scheme="http://mirror18.github.io/tags/%E6%88%90%E9%95%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>刷题</title>
+    <link href="http://mirror18.github.io/2024/09/10/shua-ti/"/>
+    <id>http://mirror18.github.io/2024/09/10/shua-ti/</id>
+    <published>2024-09-10T15:14:15.475Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+    <summary type="html">外包提供的刷题</summary>
+    
+    
+    <content src="https://api.sretna.cn/kind/pc.php" type="image"/>
+    
+    
+    <category term="刷题" scheme="http://mirror18.github.io/categories/%E5%88%B7%E9%A2%98/"/>
+    
+    
+    <category term="找工作" scheme="http://mirror18.github.io/tags/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
+    
+    <category term="刷题" scheme="http://mirror18.github.io/tags/%E5%88%B7%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新的篇章</title>
+    <link href="http://mirror18.github.io/2024/09/10/xin-de-pian-zhang/"/>
+    <id>http://mirror18.github.io/2024/09/10/xin-de-pian-zhang/</id>
+    <published>2024-09-10T15:14:15.475Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;新的篇章&quot;&gt;&lt;a href=&quot;#新的篇章&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://mirror18.github.io/categories/Java/"/>
+    
+    
+    <category term="感悟" scheme="http://mirror18.github.io/tags/%E6%84%9F%E6%82%9F/"/>
+    
+    <category term="积累" scheme="http://mirror18.github.io/tags/%E7%A7%AF%E7%B4%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最近感悟</title>
+    <link href="http://mirror18.github.io/2024/09/10/zui-jin-gan-wu/"/>
+    <id>http://mirror18.github.io/2024/09/10/zui-jin-gan-wu/</id>
+    <published>2024-09-10T15:14:15.475Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前提&quot;&gt;&lt;a href=&quot;#前提&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="总结" scheme="http://mirror18.github.io/categories/%E6%80%BB%E7%BB%93/"/>
+    
+    
+    <category term="刷题" scheme="http://mirror18.github.io/tags/%E5%88%B7%E9%A2%98/"/>
+    
+    <category term="集合" scheme="http://mirror18.github.io/tags/%E9%9B%86%E5%90%88/"/>
+    
+    <category term="多线程" scheme="http://mirror18.github.io/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>目标</title>
+    <link href="http://mirror18.github.io/2024/09/10/mu-biao/"/>
+    <id>http://mirror18.github.io/2024/09/10/mu-biao/</id>
+    <published>2024-09-10T15:14:15.475Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;目标&quot;&gt;&lt;a href=&quot;#目标&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="目标" scheme="http://mirror18.github.io/categories/%E7%9B%AE%E6%A0%87/"/>
+    
+    
+    <category term="Foo" scheme="http://mirror18.github.io/tags/Foo/"/>
+    
+    <category term="Bar" scheme="http://mirror18.github.io/tags/Bar/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>财务系统</title>
+    <link href="http://mirror18.github.io/2024/09/10/cai-wu-xi-tong/"/>
+    <id>http://mirror18.github.io/2024/09/10/cai-wu-xi-tong/</id>
+    <published>2024-09-10T15:14:15.475Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="项目开发" scheme="http://mirror18.github.io/categories/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
+    
+    <category term="从无到有" scheme="http://mirror18.github.io/tags/%E4%BB%8E%E6%97%A0%E5%88%B0%E6%9C%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面试整理</title>
+    <link href="http://mirror18.github.io/2024/09/10/mian-shi-zheng-li/"/>
+    <id>http://mirror18.github.io/2024/09/10/mian-shi-zheng-li/</id>
+    <published>2024-09-10T15:14:15.475Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+    <summary type="html">主要是面对简历的修改和扩充</summary>
+    
+    
+    <content src="https://api.sretna.cn/kind/pc.php" type="image"/>
+    
+    
+    <category term="面试" scheme="http://mirror18.github.io/categories/%E9%9D%A2%E8%AF%95/"/>
+    
+    
+    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
+    
+    <category term="资料" scheme="http://mirror18.github.io/tags/%E8%B5%84%E6%96%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面试题目</title>
+    <link href="http://mirror18.github.io/2024/09/10/mian-shi-ti-mu/"/>
+    <id>http://mirror18.github.io/2024/09/10/mian-shi-ti-mu/</id>
+    <published>2024-09-10T15:14:15.475Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+    <summary type="html">现有的几次面试的思考吧</summary>
+    
+    
+    <content src="https://api.sretna.cn/kind/pc.php" type="image"/>
+    
+    
+    <category term="找工作" scheme="http://mirror18.github.io/categories/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
+    
+    <category term="找工作" scheme="http://mirror18.github.io/tags/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
+    
+    <category term="面试" scheme="http://mirror18.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java常见问题</title>
+    <link href="http://mirror18.github.io/2024/09/10/java-chang-jian-wen-ti/"/>
+    <id>http://mirror18.github.io/2024/09/10/java-chang-jian-wen-ti/</id>
+    <published>2024-09-10T15:14:15.471Z</published>
+    <updated>2024-09-10T15:14:15.471Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;java&quot;&gt;&lt;a href=&quot;#java&quot; class=&quot;headerlink&quot; title=&quot;java&quot;&gt;&lt;/a&gt;java&lt;/h1&gt;&lt;p&gt;这几个问题拖了好些天了，正好没事干，就顺便完成吧。&lt;/p&gt;
+&lt;h2 id=&quot;泛型&quot;&gt;&lt;a href=&quot;#泛型&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://mirror18.github.io/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
+    
+    <category term="基础知识" scheme="http://mirror18.github.io/tags/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java开发流程</title>
+    <link href="http://mirror18.github.io/2024/07/06/java-kai-fa-liu-cheng/"/>
+    <id>http://mirror18.github.io/2024/07/06/java-kai-fa-liu-cheng/</id>
+    <published>2024-07-06T00:20:21.000Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+    <summary type="html">如何正确的开启一个Java项目，包含spring 还有spring cloud</summary>
+    
+    
+    <content src="https://api.sretna.cn/kind/pc.php" type="image"/>
+    
+    
+    <category term="Java-ee" scheme="http://mirror18.github.io/categories/Java-ee/"/>
+    
+    
+    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
+    
+    <category term="spring" scheme="http://mirror18.github.io/tags/spring/"/>
+    
+    <category term="spring cloud" scheme="http://mirror18.github.io/tags/spring-cloud/"/>
+    
+    <category term="spring boot" scheme="http://mirror18.github.io/tags/spring-boot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>resume</title>
+    <link href="http://mirror18.github.io/2024/07/02/resume/"/>
+    <id>http://mirror18.github.io/2024/07/02/resume/</id>
+    <published>2024-07-02T18:35:04.000Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;简历&quot;&gt;&lt;a href=&quot;#简历&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="找工作" scheme="http://mirror18.github.io/categories/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+    <category term="Java" scheme="http://mirror18.github.io/tags/Java/"/>
+    
+    <category term="Resume" scheme="http://mirror18.github.io/tags/Resume/"/>
+    
+    <category term="python" scheme="http://mirror18.github.io/tags/python/"/>
+    
+    <category term="Spring Boot" scheme="http://mirror18.github.io/tags/Spring-Boot/"/>
+    
+    <category term="mybatis" scheme="http://mirror18.github.io/tags/mybatis/"/>
+    
+    <category term="Djang" scheme="http://mirror18.github.io/tags/Djang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo+github pages+ github action + matery 搭建博客</title>
+    <link href="http://mirror18.github.io/2024/07/02/bo-ke-da-jian-zhi-nan/"/>
+    <id>http://mirror18.github.io/2024/07/02/bo-ke-da-jian-zhi-nan/</id>
+    <published>2024-07-02T05:02:00.000Z</published>
+    <updated>2024-09-10T15:14:15.475Z</updated>
+    
+    
+    <summary type="html">一份带着自己思考的搭建博客方案</summary>
+    
+    
+    <content src="https://api.sretna.cn/kind/pc.php" type="image"/>
+    
+    
+    <category term="小玩具" scheme="http://mirror18.github.io/categories/%E5%B0%8F%E7%8E%A9%E5%85%B7/"/>
+    
+    
+    <category term="hexo" scheme="http://mirror18.github.io/tags/hexo/"/>
+    
+    <category term="github" scheme="http://mirror18.github.io/tags/github/"/>
+    
+    <category term="matery" scheme="http://mirror18.github.io/tags/matery/"/>
+    
+  </entry>
+  
+</feed>
